@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Me chamo Bernardo Lessa, sou desenvolvedor backend com foco em backend e análise de dados. Sou esforçado e já desenvolvi projetos na área de análise de dados, trabalhando com coleta, processamento e visualização de informações.
+Me chamo Bernardo Lessa e sou desenvolvedor backend com foco em Python e análise de dados. Tenho experiência no desenvolvimento de pipelines de dados, atuando na coleta, processamento e visualização de informações para apoiar a tomada de decisão. Busco sempre criar soluções eficientes que conectem tecnologia e necessidades de negócio.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-lessa-luz/" target="_blank">
@@ -47,10 +47,4 @@ Me chamo Bernardo Lessa, sou desenvolvedor backend com foco em backend e anális
 
 ---
 
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lessadevb/lessadevb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lessadevb/lessadevb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lessadevb/lessadevb/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:7b2ff7,100:00d4ff&height=120&section=footer"/>
