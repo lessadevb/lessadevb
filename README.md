@@ -33,7 +33,7 @@ class BernardoLessa:
     role     = "Backend Developer"
     base     = "Brasil 🇧🇷"
     foco     = ["APIs REST", "Microsserviços", "Arquitetura de Software"]
-    status   = "Sempre construindo algo novo 🚀"
+    status   = "Sempre construindo algo novo"
 
     def missao(self):
         return "Transformar problemas complexos em soluções elegantes"
