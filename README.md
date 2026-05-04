@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Me chamo Bernardo Lessa, sou desenvolvedor backend apaixonado por construir sistemas escaláveis, APIs robustas e soluções de alto desempenho. Gosto de trabalhar com arquitetura de software e sempre busco escrever código limpo e eficiente.
+Me chamo Bernardo Lessa, sou desenvolvedor backend. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-lessa-luz/" target="_blank">
